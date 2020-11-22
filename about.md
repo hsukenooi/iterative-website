@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: post 
 title: "About Iterative"
 ---
 

@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Iterative Podcast"
-date:   2020-11-08 17:21:06 +0800
-author: "Hsu Ken Ooi"
+layout: 	post
+title:  	"Iterative Podcast"
+date:   	2020-11-08 17:21:06 +0800
+author: 	"Hsu Ken Ooi"
 categories: announcements podcast 
-excerpt: "We started a podcast! Most of the time, we will be interviewing people who start, operate, and invest in startups, on how they got started and what their experience is like. Once in a while, like in the first episode, we'll be giving practical advice around a specific topic."
+excerpt: 	"We started a podcast! Most of the time, we will be interviewing people who start, operate, and invest in startups, on how they got started and what their experience is like. Once in a while, like in the first episode, we'll be giving practical advice around a specific topic."
 ---
 
 We started a podcast! We are hoping it will accomplish 2 things.

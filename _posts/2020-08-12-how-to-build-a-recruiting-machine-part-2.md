@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "How to Build a Recruiting Machine: Part 2"
+date:   2020-08-31 17:21:06 +0800
+author: "Brian Ma"
+categories: blog 
+excerpt: "This is part 2 of a 3 part series on how to build a recruiting machine. It covers the motivations for why it's important to get really good at hiring plus writing your first job description, this part will address specific tactics on sourcing and interview loops, and part 3 will dig into how to close your candidates." 
+---
+
+*This is part 2 of a 3 part series on how to build a recruiting machine. If you haven't read part one, it's [here](https://iterative.vc/posts/how-to-build-a-recruiting-machine-part-1) and covers the motivations for why it's important to get really good at hiring plus writing your first job description, this part will address specific tactics on sourcing and interview loops, and part 3 will dig into how to close your candidates.*
+
+## Overview
+
+This is likely the most tactical and immediately applicable part of building a recruiting machine. It's time to get to work and figure out how to source a ton of candidates and then work them through your funnel. A job well done here will end a couple high quality candidates that you can extend offers to. You will know if you've got too many great candidates and have to make the difficult decision to only add one candidate to your team.
+
+## Sourcing: How to Fill The Pipeline
+
+Recruiting is a numbers game. The conversion rate will differ depending on seniority of the role, geography, department, etc, but it's not unreasonable to think that you'll need to talk to ~40-50 people before wanting to put out one offer in the early stages. The channels that work differ a lot by position, seniority, and geography as well. The best place to get advice is from other founders that have recently hired for that position.
+
+Here's my experience with channels that worked for me; your mileage will likely vary. These are prioritized by most effective on top, versus most reach (but least effective) at the bottom.
+
+1. **LinkedIn 1st degree connections** -  This is where you should immediately start. Who is the closest engineer, ops person, sales person that you know that would be great for that role. Reconnect with them and see where they're at. Let them know you're looking for someone in X role and ask for both their advice and see if they have referrals. See referral parties below to get a wider surface area for these.
+2. **LinkedIn 2nd degree connections** - This is the next step. Search for keywords, and filter by companies that you know have the target profile you want (if you're looking for great sales people, what company is known for their great sales teams), then ask your mutual connection how well they know them and whether they'd be willing to forward an intro request (again to just ask for advice).
+3. **Referrals** - If you have a team, host 'referral parties'. These are 30 min sessions where everyone is doing #1 and #2 together. Set some metric where everyone at the end of 30 mins has sent out 3 requests, these will oftentimes lead to more follow ups then you'd have expected.
+4. **Your own channels** - Send out posts on LinkedIn, your blog, your personal twitter, private groups, etc. You should also think about where your target role/person hangs out - for example, I've once hired a marketing manager off of Instagram. 
+5. **Private groups & layoff Lists** - Once you start expanding your network, you'll start getting invited to industry specific, role specific, or geo specific private groups. Oftentimes they're people that want to help each other and likely will share great candidates as well as open positions.
+6. **Job boards and marketplaces** - This will now start to really diverge depending on what you're hiring for. Certain marketplaces are better/worse at different audiences. AngelList is a great resource in SF to find people who are curious about startups. However, there are at least 20 other channels that you should be able to pick up from other founders. For example: In SF, TripleByte and Hired are great for engineers, as well as a few other private groups. In Southeast Asia, founders have seemed to like Tech in Asia or e27 for the best signal to noise ratio. If you're hiring delivery drivers, or other blue-collar type workers, there are specific marketplaces for those as well.
+7. **Others** - Universities, campus recruiting, and meetups fall into this category. I've found meetups to be very hit or miss (mostly miss) but if you have another reason to go, that justifies it enough. University and campus recruiting is fine, but remember, you want to optimize for hiring senior folks.
+
+In the early days, of the people we hired, 80%+ were from referrals. While it might feel like you can just post and get people to apply, remember that's the lazy and least effective tactic. Good recruiting takes time and commitment.
+
+As a last note: I've found the easiest way for myself to do this effectively is to just block an hour every morning or night to do recruiting consistently. That way you time-box your allocation to recruiting while still being able to get other important startup execution work done. If you haven't pulled your teammates into this as well, you should consider doing that. Recruiting is a team effort.
+
+## Process: How to Design The Recruiting Funnel
+
+Congrats, now you have a ton of people (hopefully at least 50) you need to run the 'sales funnel' on. There's no right or wrong way to do this, but I've found some things that have worked well for me. Remember just like with product, or sales, the trick here is to keep experimenting with your process to tune for more efficient time commitment, higher signal, not rejecting too soon or too late, etc.
+
+Here is my process - feel free to adopt the pieces you like the best and change things you don't like.
+
+1. **Pull the team together** - I like having 4 different people with different perspectives interview candidates. This usually looks like one from engineering, product, business, then yourself as hiring manager. Pick departments that will work the most closely with this person. When a company is early, maybe you can have 3 people. 2 is fine too, but then disagreements get harder to resolve.
+2. **Intro call** - Have 1 department be the owner of the intro call. For example, if you're hiring a PM, have other PM's rotate in to do intro calls. Intro call agenda: (1) Tell the candidate about your company, about the role, about what daily life looks like (2) Go through a predefined list of questions - usually these are probing about the candidates background, maybe an example product, ask lots of questions around why they make certain decisions, ask them to give you examples of times when they did something that are good examples of cultural values you value and (3) leave time for their questions then ask them if they're still interested. If they are, we give a take-home assignment.
+3. **Take home assignment** - This is a pre-written problem that usually is something we are solving now or a problem we worked on last cycle that didn't have a "right solution", but we still picked a direction. The goal here is to see how the candidate thinks and have a productive conversation on plan. I tend to like to make this max 1-2 hours of time and ask the candidate not to go overboard, we don't want to waste their time. We will decline candidates based on take-homes. Your decline rates will vary by role, geo, etc, but ours is approximately 80% decline on phone screens, 25% decline on take-homes.
+4. **In person interview** - The last step (yes we try hard to only bring in candidates only once) is an in person interview loop with the team you assembled in #1. This is about 4 hours with approximately 45min-1 hour each. Sometimes I throw in an extra person or two if I'm looking to vet something very specific (what happened at their previous employer that someone on my team knows about). I also design for a 'short cut'. I tell them they're meeting 3 people, not 4. Two hard no's will cut the loop short to save everyone time, I'll be the third to make a final call and let them out early. Best practices here is to work with your interviewers on their questions. Make it intentional what each person is trying to vet for (this should align with at least one of the criteria that you are grading for).
+5. **The debrief -** Once or twice a week, we'll have a group debrief on candidates we talked to. Usually this is 2 or 3 candidates. Have everyone come prepared with their scores, scoring guide, and comments. My system is you need two strong yes's to move to offer. If there is one strong no, it's a no. If everyone is a neutral, it's a no. This is also a great place to talk about how to adjust your scoring guide, process, or types of candidates you're seeing.
+6. **Back-channel reference calls** - Ask the candidate for 2 references that you can call (and ask about what it's like to work with them), but more importantly, I require at least 1 back-reference call (ie. find someone they worked with that they did not give as a reference). These are actually the most enlightening conversations. You're testing more here for culture fit - do they work hard, are they responsible, do they hit their deadlines, what do they do when they run into conflicts, etc.
+7. **Offer!** - Sight to the finish line! Almost there, but not quite yet. :)
+
+People often ask me about cadence and timing here. Your mileage will vary a lot, but the benchmark I give myself is usually about 2-3 months to hire a mid-level person, 3-5 months to hire a senior person. I try to get myself and my team to get to the in person interview stage for 2-3 candidates per week. That means for mid-level, the team would have seen at least ~20-30 people in the span of 2-3 months for a single job, but you've had intro calls with many many more. At the early stages, I recommend you focus on 1 or 2 roles max in parallel to start, it will be a lot of work already if you're trying to do a quality job.
+
+Getting the sourcing and process built out and organized well will save you a lot of time and also allow your team to be involved and build buy-in. Remember, at the end of the day, your team will be the ones actually working with this new hire so a good fit here is critical. Doing a bad job here will cause a lot of pain down the road. 
+
+Up next: how to negotiate, close, and onboard your new hires. To get notified for part 3, subscribe to our blog below.

@@ -164,7 +164,7 @@ capital:
 
 <div class="row justify-content-center">
   <div class="col-lg-8 col-md-12">
-    <h2 class="text-center">Iterative</h1>
+    <h2 class="text-center">Iterative</h2>
   </div>
 </div>
 
@@ -173,11 +173,8 @@ capital:
   {% if mod == 1 %}
     <div class="row">
   {% endif %}
-      <div class="col-3">
-        <img class="companyThumbnail img-fluid" src={{company[1].image}} />
-        <h4 class="companyName"><a href="{{company[1].url}}" target="_blank">{{company[1].name}}</a></h4>
-        <p class="companyDescription">{{company[1].description}}</p>
-      </div>
+    {% assign company = company %}
+    {% include company_tile.html company = company %}
   {% if mod == 0 %}
     </div>
   {% endif %}
@@ -185,7 +182,7 @@ capital:
 
 <div class="row justify-content-center">
   <div class="col-lg-8 col-md-12">
-    <h2 class="text-center">Iterative Capital</h1>
+    <h2 class="text-center">Iterative Capital</h2>
   </div>
 </div>
 
@@ -194,11 +191,8 @@ capital:
   {% if mod == 1 %}
     <div class="row">
   {% endif %}
-      <div class="col-3">
-        <img class="companyThumbnail img-fluid" src={{company[1].image}} />
-        <h4 class="companyName"><a href="{{company[1].url}}" target="_blank">{{company[1].name}}</a></h4>
-        <p class="companyDescription">{{company[1].description}}</p>
-      </div>
+    {% assign company = company %}
+    {% include company_tile.html company = company %}
   {% if mod == 0 %}
     </div>
   {% endif %}

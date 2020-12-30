@@ -55,3 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 apply_url: "https://iterative.vc/apply"
+base_url: "/iterative-website"

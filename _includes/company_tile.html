@@ -1,5 +1,5 @@
 <div class="col-3">
-  {% assign companyThumbnail = site.baseurl | append: company[1].image %}
+  {% assign companyThumbnail = site.base_url | append: company[1].image %}
 	<img class="companyThumbnail img-fluid" src={{companyThumbnail}} />
 	<h4 class="companyName"><a href="{{company[1].url}}" target="_blank">{{company[1].name}}</a></h4>
 	<p class="companyDescription">{{company[1].description}}</p>

@@ -2,26 +2,26 @@
 title: "Home"
 layout: default
 accelerator: 
-  become:
-    name: "Become"
-    url: "https://become.my/"
-    description: "Transforming cosmetic dentistry with affordable, convenient teeth straightening."
-    image: /assets/companies/become-logo.png
-  bungkus: 
-    name: "Bungkus"
-    url: "https://www.bungkus.sg/"
-    description: "Halal-only food delivery platform."
-    image: /assets/companies/bungkus-logo.png 
+  sendhelper: 
+    name: "Sendhelper"
+    url: "https://www.sendhelper.com/"
+    description: "Services platform for household chores."
+    image: /assets/companies/sendhelper-logo.png 
+  tendopay: 
+    name: "TendoPay"
+    url: "https://tendopay.ph/"
+    description: "Installment shopping for the Philippines."
+    image: /assets/companies/tendopay-logo.png 
   haulio: 
     name: "Haulio"
     url: "https://www.haulio.io/"
     description: "Singapore's largest digital container haulage network."
     image: /assets/companies/haulio-logo.png 
-  outside_voice: 
-    name: "Outside Voice"
-    url: "https://www.outsidevoice.io/"
-    description: "Structured data collection via WhatsApp."
-    image: /assets/companies/outside-voice-logo.png 
+  become:
+    name: "Become"
+    url: "https://become.my/"
+    description: "Transforming cosmetic dentistry with affordable, convenient teeth straightening."
+    image: /assets/companies/become-logo.png
 team: 
   brian:
     name: "Brian Ma"
@@ -29,7 +29,7 @@ team:
     title: "Founder, General Partner"
     bio: "Brian was previously the Co-Founder and CEO of Divvy Homes (a16z, GIC). In 2014, he and Elpizo Choi started Weave (YCS14). In 2009, he started Decide.com an early machine learning company that predicted the future price of consumer goods. It was acquired by eBay in 2013. In 2005, he was one of the first PMs at Zillow before they launched. Brian has a BS in Computer Science and Electrical Engineering from the University of Washington."
     image: /assets/team/brian-ma.jpg
-  hsu-ken:
+  hsu_ken:
     name: "Hsu Ken Ooi"
     linkedin: "https://www.linkedin.com/in/hsukenooi/"
     title: "Founder, General Partner"
@@ -39,7 +39,7 @@ team:
 
 <div class="row justify-content-center">
   <div class="col-12">
-  	<img src="/assets/singapore-street.jpg" class="img-fluid hero-img">
+  	<img src="/assets/vibes-glen-adrien-melvin.jpg" class="img-fluid hero-img">
   </div>
  </div>
 
@@ -59,7 +59,6 @@ team:
 </div>
 <div class="row">
   {% for company in page.accelerator %}
-    {% assign company = company %}
     {% include company_tile.html company = company %}
   {% endfor %}
 </div>

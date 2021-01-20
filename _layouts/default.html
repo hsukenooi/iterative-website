@@ -24,5 +24,8 @@
       {{ content }}
     </div>
     {% include footer.html %}
+    <script type="text/javascript">
+      mixpanel.track("{{ page.title }} Viewed");
+    </script>
   </body>
 </html>

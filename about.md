@@ -5,7 +5,7 @@ title: "About Iterative"
 
 Our goal is to get your startup through the initial phase. This means different things depending on the type of company you want to start but typically it means building something with enough traction to raise money from investors.
 
-If you’re interested in applying, please do so [here]({{site.apply_url}}).
+If you’re interested in applying, please do so [here]({{site.applyurl}}).
 
 ## What We Do
 
@@ -17,9 +17,9 @@ We invest US$150K for 10% of your startup. This is the least important thing we 
 
 ### 2. Work With You On Your Idea 
 
-This is the most important thing we do. We're founders too. Together we've started 3 companies ([Decide](https://www.notion.so/iterativevc/about-529e8a9c99764bbe80d98c9510016e21#1f314d87d51744b083eafcbbbff1f69bi),
-[Weave](https://www.notion.so/iterativevc/about-529e8a9c99764bbe80d98c9510016e21#1f314d87d51744b083eafcbbbff1f69b), 
-[Divvy Homes](https://www.notion.so/iterativevc/about-529e8a9c99764bbe80d98c9510016e21#1f314d87d51744b083eafcbbbff1f69b)), raised money from the best investors (a16z, Index Ventures, etc.) in Silicon Valley, sold 2 of them, 1 is still going strong.
+This is the most important thing we do. We're founders too. Together we've started 3 companies ([Decide](https://venturebeat.com/2013/09/06/ebay-buys-shopping-research-site-decide-com/),
+[Weave](https://techcrunch.com/2014/08/08/weave-groups-events/), 
+[Divvy Homes](https://techcrunch.com/2019/09/25/fractional-home-ownership-startup-divvy-raises-43m-series-b-to-build-a-path-from-rent-to-purchase/)), raised money from the best investors (a16z, Index Ventures, etc.) in Silicon Valley, sold 2 of them, 1 is still going strong.
 
 Maybe more importantly, before each company, we tried dozens of ideas that didn't work. As a result, we learned a lot about what ideas are promising, how to validate them, and how to grow them. Typically, we can quickly tell you whether you're trying to do too little or too much and where you should focus. If not, we can definitely tell you how to go about answering those questions.
 

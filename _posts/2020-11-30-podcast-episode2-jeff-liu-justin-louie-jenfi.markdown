@@ -5,6 +5,7 @@ date:   2020-11-30 17:21:06 +0800
 author: "Hsu Ken Ooi"
 categories: podcast 
 excerpt: "Jeff Liu and Justin Louie are the co-founders of Jenfi (YC W20). Jenfi lends to small businesses in Southeast Asia based on revenue. Jenfi has raised US$2.1M in funding."
+image: 2020-11-30-justin-jeff-podcast-cover.jpg
 ---
 
 <iframe width="560" style="margin-bottom: 25px;" height="315" src="https://www.youtube.com/embed/D_y74RzMDKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

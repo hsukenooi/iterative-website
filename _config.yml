@@ -30,6 +30,7 @@ permalink: /blog/:year/:month/:day/:title:output_ext
 twitter:
   username: iterativevc 
   card: summary_large_image
+  creator: iterativevc
 
 defaults:
   - scope:

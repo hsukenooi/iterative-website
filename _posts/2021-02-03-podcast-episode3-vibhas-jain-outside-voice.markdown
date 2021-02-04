@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vibhas Jain: Finding Co-Founders and Ideas"
+title:  "Vibhas Jain on Finding Co-Founders and Ideas"
 date:   2021-02-03 16:00:00 +0800
 author: "Hsu Ken Ooi"
 categories: podcast 

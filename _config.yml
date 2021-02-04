@@ -35,10 +35,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: 
-        path: /assets/iterative-logo-1200.jpg 
-        width: 1200
-        height: 630
+      image: /assets/iterative-logo-1200.jpg 
 
 # Build settings
 # theme: minima

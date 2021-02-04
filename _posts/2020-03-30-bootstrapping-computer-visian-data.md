@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bootstrapping Computer Vision Data"
-date:   2020-09-03 17:21:06 +0800
+title: "Bootstrapping Computer Vision Data"
+date: 2020-09-03 17:21:06 +0800
 author: "Hsu Han Ooi"
 categories: blog ai 
 excerpt: "Computer vision startups need a lot of data to be successful in the long run. However, I've talked a to few startups trying to go from zero data to one billion datapoints instead of taking the first steps from zero to a hundred pieces of labeled data."

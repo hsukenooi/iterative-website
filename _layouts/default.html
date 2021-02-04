@@ -17,6 +17,13 @@
     <meta name="google-site-verification" content="_oYC1wSGsAYXJYkiKFp7vgqnBWNaA_qW8Y8ypEMeqog">
     <meta name="ahrefs-site-verification" content="278e394b0860ea685339fe0471c7525d9cb2021236e1423858a0b9bbf73d52de">
     {% seo %}
+    {% if page.image %}
+      <meta name="twitter:card"  content="summary_large_image">
+      <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+      <meta name="twitter:card"  content="summary">
+      <meta name="twitter:image" content="{{ site.title_image }}">
+    {% endif %}
   </head>
   <body>
     {% include header.html %}

@@ -4,8 +4,8 @@ title:  "Vibhas Jain from Outside Voice on Finding Co-Founders and Ideas"
 date:   2021-02-03 16:00:00 +0800
 author: "Hsu Ken Ooi"
 categories: podcast 
-excerpt: "Vibhas Jain is the co-founder and CEO of Outside Voice (Iterative S20), a no-code app builder for WhatsApp. On this episode, we talk about Vibhas (Vibes) childhood growing up in India, getting into and moving to Stanford but never actually attending Stanford, how he met his co-founder and came up with the idea of Outside Voice."
 image: /assets/blog/2021-02-03-vibhas-episode-cover.jpg
+excerpt: "Vibhas Jain is the co-founder and CEO of Outside Voice (Iterative S20), a no-code app builder for WhatsApp. On this episode, we talk about Vibhas (Vibes) childhood growing up in India, getting into and moving to Stanford but never actually attending Stanford, how he met his co-founder and came up with the idea of Outside Voice."
 ---
 
 <iframe width="560" height="315" style="margin-bottom: 25px;" src="https://www.youtube.com/embed/iDy216EQ9h0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

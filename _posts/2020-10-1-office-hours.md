@@ -5,6 +5,8 @@ date:   2020-10-01 17:21:06 +0800
 author: "Hsu Ken Ooi"
 categories: announcements office-hours 
 excerpt: "We're excited to host open online office hours for startup founders every Friday throughout the month of October. Office hours are 20-minute sessions between you and one of our partners, where they try to help you with your startup as much as they can. This is very similar to the partner meetings we hold with companies during the batch."
+redirect_from: 
+  - /posts/office-hours
 ---
 
 We're excited to host open online office hours for startup founders every Friday throughout the month of October. Office hours are 20-minute sessions between you and one of our partners, where they try to help you with your startup as much as they can. This is very similar to the partner meetings we hold with companies during the batch.

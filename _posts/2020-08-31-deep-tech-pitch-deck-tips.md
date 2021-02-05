@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "4 Essential Tips for Deep Tech Pitches"
-date:   2020-08-31 17:21:06 +0800
+title: "4 Essential Tips for Deep Tech Pitches"
+date: 2020-08-31 17:21:06 +0800
 author: "Hsu Han Ooi"
 categories: blog deep-tech
 excerpt: "As the government pours more money into deep tech startups, it'll be more challenging for deep tech startups to rise above the rest. In this article we'll provide 4 essential tips to make any deep tech startup pitch more attractive to investors." 
+redirect_from:
+  - /posts/deep-tech-pitch-deck-tips
 ---
 
 While recruiting for our first batch, we spoke with many deep tech startups in Southeast Asia. It's no secret that the Singapore government has been pushing for more and with the abundance of strong academic institutions they were bound to pop up. Just a few months ago the [Singapore government injected S$300m into Startup SG Equity](https://www.todayonline.com/commentary/govts-s300-million-injection-deep-tech-scheme-will-benefit-singapore-some-concerns-remain) for deep-technology startups. As we listened to some pitches within this vertical we noticed a few areas that could be improved and hopefully it'll help a few of you pitch your next great idea.

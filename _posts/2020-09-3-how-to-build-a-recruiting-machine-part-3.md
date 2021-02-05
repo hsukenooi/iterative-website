@@ -5,6 +5,8 @@ date:   2020-09-03 17:21:06 +0800
 author: "Brian Ma"
 categories: blog hiring 
 excerpt: "This is part 3 of a 3 part series on how to build a recruiting machine. This last part will wrap up the series with how to think through compensation and negotiations to close candidates as well as onboard them effectively."
+redirect_from:
+  - /posts/how-to-build-a-recruiting-machine-part-3
 ---
 
 *This is part 3 of a 3 part series on how to build a recruiting machine. If you haven't read part one, it's [here](https://iterative.vc/posts/how-to-build-a-recruiting-machine-part-1) and covers the motivations for why it's important to get really good at hiring plus writing your first job description. Part 2 is [here](https://iterative.vc/posts/how-to-build-a-recruiting-machine-part-2) and addresses specific tactics on sourcing and designing interview loops. This last part will wrap up the series with how to think through compensation and negotiations to close candidates as well as onboard them effectively.*

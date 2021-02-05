@@ -5,6 +5,8 @@ date:   2020-03-27
 author: "Brian Ma"
 categories: blog 
 excerpt: "Southeast Asia is growing incredibly fast. After founding, helping, and just generally being around startups for the past 15 years of my life, I now know that growth rates are the signals you should follow. High growth rates lead to large TAMs very quickly. But why is this region growing so fast?" 
+redirect_from: 
+    - /se-asia-opportunity
 ---
 
 **I'm starting an accelerator for southeast asia.** For those that aren't super familiar with the region, that means companies that primarily serve customers in countries like Singapore, Indonesia, Vietnam, Malaysia, Thailand, and the Philippines.

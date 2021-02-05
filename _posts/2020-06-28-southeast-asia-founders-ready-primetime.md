@@ -5,7 +5,9 @@ date:   2020-03-27
 author: "Brian Ma"
 categories: blog 
 excerpt: "By far, the biggest takeaway for me is: Founders are ready for primetime. A prime time founder is someone who's ready to take venture capital, grow at ungodly speeds, has the knowledge and capacity to control the organized chaos of a a startup company, and are ambitious and thinking big." 
----
+redirect_from: 
+  - /posts/southeast-asia-founders-ready-primetime
+  ---
 
 In March, I wrote a post about how [Southeast Asia is the next big opportunity](https://iterative.vc/posts/se-asia-opportunity). The gist of the message is a lot of the "raw materials" are in place (founders, large markets, increase of capital, budding startup communities, etc) and how my partners and I are getting into the action by starting Iterative, an operator-led accelerator modeled after YC. We invest $150k USD into promising early stage startups. Since then I've had the privilege of talking to ~200 founders in the region. This is a post about what I've learned.
 

@@ -5,6 +5,8 @@ date:   2020-08-31 17:21:06 +0800
 author: "Hsu Han Ooi"
 categories: blog deep-tech
 excerpt: "In three short months we met with 200 founders from all over Southeast Asia and narrowed it down to the eight startups you see here. We've also included a short blurb on why we're thrilled to have them as a part of our program." 
+redirect_from: 
+  - /posts/iterative-summer-2020-batch
 ---
 
 Today, we're excited to introduce you to Iterative's first batch of startups in our Summer 2020 cohort! 

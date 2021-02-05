@@ -1,6 +1,8 @@
 ---
 layout: post 
 title: "About Iterative"
+redirect_from: 
+  - /accelerator
 ---
 
 Our goal is to get your startup through the initial phase. This means different things depending on the type of company you want to start but typically it means building something with enough traction to raise money from investors.

@@ -17,14 +17,16 @@ a
   color: #2F80ED
 
 h1, h2, h3, h4, strong, .navbar, .postMeta
-  font-family: -apple-system, 'Helvetica Neue', sans-serif
+  font-family: 'Avenir', -apple-system, 'Helvetica Neue', sans-serif
+  font-weight: 500 !important
 
 h1, h2, h3, h4, strong
-  font-weight: bold
+  font-weight: 900 !important
+
 
 h1
-  font-size: 32px
-  line-height: 40px
+  font-size: 42px
+  line-height: 50px
   margin-bottom: 25px
 
 h2
@@ -58,6 +60,13 @@ footer
 .demphasis
   color: #9299A4
 
+.arrow::after, .arrow-right::after
+  content: '›'
+  pointer-events: none
+  display: inline-block
+  margin-left: 0.25em
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.6, 1)
+
 // NAV BAR
 .navbar
   margin-bottom: 100px
@@ -76,14 +85,20 @@ footer
   top: 1px
 
 // HOME
-.hero-img
-  margin: -50px 0 50px
+#index
+  margin-top: -50px
+  .hero-img
+    margin: 0 0 50px
+  .personThumbnail
+    margin-bottom: 10px
+    width: 130px
+
 
 // BLOG LIST
 .postList
 
   h2
-    margin-bottom: 10px
+    margin-bottom: 5px
 
     a
       color: #303336
@@ -97,7 +112,6 @@ footer
     margin-bottom: 10px
 
 // BLOG POST
-.post-title
 
 // COMPANIES
 .companyThumbnail

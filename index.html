@@ -37,23 +37,20 @@ team:
     image: /assets/team/hsu-ken-ooi.jpg
 ---
 
-<div class="row justify-content-center">
-  <div class="col-12">
-  	<img src="/assets/vibes-glen-adrien-melvin.jpg" class="img-fluid hero-img">
-  </div>
- </div>
-
-<div class="row justify-content-center">
-  <div class="col-lg-8 col-md-12">
-    <h1 class="text-center">Seed Funding for Early Stage Startups</h1>
-    <p>We invest US$150K in batches twice a year. Upon admission, we invest the full amount upfront then work with the founders closely on their idea for 3 months. At the end of the 3 months, they present to a select group of investors with the goal of raising a larger round of investment.</p>
-    <p>After that, we and the alumni network continue to help the startups and founders for the lifetime of the startup and often much longer.</p>
+<div class="row">
+  <div class="col-6">
+    <h1>Founders Supporting Founders</h1>
+    <p>We invest US $150K in a batch of startups, twice a year. Upon admission, we invest the full amount then work with the founders closely on their idea for 3 months. After 3 months, they present to a select group of investors with the goal of raising a larger round of investment.</p>
+    <p><b><a href="about" class="arrow">Learn more</a></b></p>
 	</div>
+  <div class="col-6">
+    <img src="/assets/zoom-hero.jpg" class="img-fluid hero-img">
+  </div>
 </div>
 
 <!-- COMPANIES -->
-<div class="row justify-content-center">
-  <div class="col-lg-8 col-md-12">
+<div class="row">
+  <div class="col-12">
     <h2>Companies</h2>
   </div>
 </div>
@@ -62,26 +59,33 @@ team:
     {% include company_tile.html company = company %}
   {% endfor %}
 </div>
-<div class="row justify-content-center">
-  <div class="col-lg-8 col-md-12">
-    <p><a href="team">See all the companies</a> who have gone through the program.</p>
+<div class="row">
+  <div class="col-12">
+    <p><b><a href="companies" class="arrow">See all the companies</a></b></p>
   </div>
 </div>
 
 <!-- TEAM -->
-<div class="row justify-content-center">
-  <div class="col-lg-8 col-md-12">
+<div class="row">
+  <div class="col-12">
     <h2>Team</h2>
   </div>
 </div>
 
-{% for person in page.team %}
-  {% assign person = person %}
-  {% include person_tile.html person = person %}
-{% endfor %}
+<div class="row">
+  {% for person in page.team %}
+    <div class="col-6">
+      {% assign personThumbnail = site.base_url | append: person[1].image %}
+      <a href="{{person[1].linkedin}}" target="_blank"><img class="personThumbnail img-fluid" src={{personThumbnail}} /></a>
+      <h4 class="personName"><a href="{{person[1].linkedin}}" target="_blank">{{person[1].name}}</a></h4>
+      <p class="personTitle">{{person[1].title}}</p>
+      <p class="personBio">{{person[1].bio}}</p>
+    </div>
+  {% endfor %}
+</div>
 
 <div class="row justify-content-center">
-  <div class="col-lg-8 col-md-12">
-    <p><a href="team">See the entire team</a> that includes founders who have sold companies to eBay, Apple and more.</p>
+  <div class="col-12">
+    <p><b><a href="team" class="arrow">See the entire team</a></b></p>
   </div>
 </div>

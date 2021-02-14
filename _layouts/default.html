@@ -26,6 +26,7 @@
     {% endif %}
   </head>
   <body>
+    {% include subscribe-banner.html %}
     {% include header.html %}
     <div id="{{ page.name | remove: '.html' }}" class="container">
       {{ content }}

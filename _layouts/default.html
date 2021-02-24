@@ -24,6 +24,9 @@
       <meta name="twitter:card"  content="summary">
       <meta name="twitter:image" content="{{ site.title_image }}">
     {% endif %}
+    {% if page.video %}
+      <meta property="og:video" content="{{ base.url}}{{ site.url }}{{ page.video }}" />
+    {% endif %}
   </head>
   <body>
     {% include subscribe-banner.html %}

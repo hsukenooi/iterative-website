@@ -13,13 +13,13 @@ While the main criteria for acceptance is the founders themselves, this batch we
 
 **Iterative Winter 2021**
 
-- [String Soul](http://stringsoul.co/) - remote music lessons for kids
-- [Spenmo](https://spenmo.com/) - helping companies manage spend
-- [GoZayaan](https://www.gozayaan.com/) - travel platform for Bangladesh
-- [Ferne Health](https://www.fernehealth.com/) - at-home health screening for women
-- [Duoria](https://www.duoria.com/) - pinduoduo for restaurants and activities
-- [CoderSchool](https://www.coderschool.vn/en/) - lambda school for Southeast Asia
-- [1Export](https://1export.net/) - helping Philippines suppliers go global
+- [String Soul](http://stringsoul.co/) - Remote music lessons for kids
+- [Spenmo](https://spenmo.com/) - Helping companies manage spend
+- [GoZayaan](https://www.gozayaan.com/) - Travel platform for Bangladesh
+- [Ferne Health](https://www.fernehealth.com/) - At-home health screening for women
+- [Duoria](https://www.duoria.com/) - Pinduoduo for restaurants and activities
+- [CoderSchool](https://www.coderschool.vn/en/) - Lambda School for Southeast Asia
+- [1Export](https://1export.net/) - Helping Philippines suppliers go global
 
 To the founders, thank you for having us as part of your journey and we're stoked to be rolling up our sleeves to build massively impactful companies with you.
 

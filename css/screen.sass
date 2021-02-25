@@ -7,7 +7,7 @@
 
 body  
   color: #303336
-  background-color: #FCFCFC
+  background-color: #FFF
   font-family: 'Roboto Slab', Georgia, serif
   font-size: 16px
   line-height: 25px
@@ -16,13 +16,17 @@ body
 a
   color: #2F80ED
 
-h1, h2, h3, h4, strong, .navbar, .postMeta
+h1, h2, h3, h4, .navbar, .postMeta
   font-family: 'Avenir', -apple-system, 'Helvetica Neue', sans-serif
   font-weight: 500 !important
 
 h1, h2, h3, h4, strong
   font-weight: 900 !important
 
+h1, h2, h3, h4 
+  a 
+    color: #303336
+    text-decoration: underline
 
 h1
   font-size: 42px
@@ -85,7 +89,7 @@ footer
   height: 50px
 
 .bg-light
-  background-color: #FCFCFC !important
+  background-color: #FFF !important
 
 .navbar-light .navbar-nav .nav-link
   color: #9299A4
@@ -122,6 +126,7 @@ footer
 
     a
       color: #303336
+      text-decoration: none
 
   li
     padding-bottom: 25px 
@@ -132,6 +137,12 @@ footer
     margin-bottom: 10px
 
 // BLOG POST
+img.expanded
+  width: 140%
+  margin-left: -20%
+
+.post-title h1
+  margin-bottom: 10px
 
 // COMPANIES
 .companyThumbnail

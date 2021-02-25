@@ -5,6 +5,7 @@ date: 2021-02-25 15:00:00 +0800
 author: "Hsu Ken Ooi"
 categories: blog announcements
 excerpt: "In the past 3 months, we've met with over 220 companies from all over Southeast Asia and are excited to announce our Winter 2021 batch." 
+image: /assets/blog/2021-02-25-post-cover.jpg
 ---
 
 In the past 3 months, we've met with over 220 companies from all over Southeast Asia and are excited to announce our Winter 2021 batch!

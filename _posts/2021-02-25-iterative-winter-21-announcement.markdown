@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Companies in Iterative Winter 2021"
+title:  "Iterative Winter 2021 Batch"
 date: 2021-02-25 15:00:00 +0800
 author: "Hsu Ken Ooi"
 categories: blog announcements
@@ -34,10 +34,6 @@ Remote music lessons for kids.
 
 String Soul merges the quality of a private teacher with the cost and convenience of an online app. They do this by blending live instruction, guided self-service practice, and a camera which allows teachers to provide feedback asynchronously and remotely. Music lessons today is a $2B market growing 16.6% annually. This is an exceptional bet in Asia specifically because of the desire of most parents to have their kids to have an early music education. COVID has also accelerated this trend.
 
-### Traction / Stage
-
-String Soul has already taught over 100 students. They're seeing 41% trial to paid conversion (really high compared to benchmarks) with 10% consistent MoM growth and 25% gross margins. 
-
 ### Founders
 
 - [Jit Koh Ng](https://www.linkedin.com/in/jit-koh-ng-a15b219a/?originalSubdomain=my), CEO
@@ -54,10 +50,6 @@ Helping companies manage spend.
 ### Why We're Excited
 
 Spenmo started with company cards, but has already expanded into invoices, payments, and credit. Internal payments and controls is oftentimes a massive pain point for CFOs and having software to monitor and manage employee expenses, advertising and operational costs, subscriptions, invoices, and travel is a no-brainer. Similar companies in the US like Divvy are already unicorns working on this problem. With the rapidly digitalization of startups and businesses in Asia, we think it won't be long before Spenmo becomes the defacto way companies manage their spend.
-
-### Stage
-
-Spenmo actually came to us 6 months ago and deferred involvement in our batch program because they were invited into YC. They've since grown to over 140 companies, are manging over $1M in company transactions and have originated about $150k of loans.
 
 ### Founders
 
@@ -76,10 +68,6 @@ Travel platform for Bangladesh.
 ### Why We're Excited
 
 While most of the US, Europe, Asia have digitalized travel, that's not the case for Bangladesh. A lot of what we take for granted with booking flights, hotels, etc online simply doesn't exist or is still very inconvenient there. What makes it worse is using global platforms is impractical because there are limitations to how much foreign currency Bangladeshis can use per year. GoZayaan is rapidly changing this and we think has the potential to capture the roughly $9B travel market in Bangladesh.
-
-### Stage
-
-GoZayaan is already at $3M ARR in GMV growing at 30% MoM after recovering from the COVID pause. Their domestic travel and hotels business is recovering much more rapidly then international and is where we think the main opportunity lies. With a $3.67 CAC and $17.25 LTV per customer we think there's a ton of room for GoZayaan to lay on the rocket fuel to capture this market.
 
 ### Founders
 
@@ -105,15 +93,6 @@ Ferne Health’s message has already struck a cord with local media in Singapore
 - [Ferne Health Launches Singapore’s First Online Sexual Health Platform Providing Home-based STI Screening Kits](https://sg.news.yahoo.com/ferne-health-launches-singapore-first-190307323.html) by Yahoo
 - ['It shouldn't be a taboo': She wants women to take charge of their sexual health with home-based STI screening kits](https://www.asiaone.com/lifestyle/it-shouldnt-be-taboo-she-wants-women-take-charge-their-sexual-health-home-based-sti) by Asia One
 
-### Stage
-
-Ferne Health launched in early October 2020 and sold 30 kits in their first 6 weeks. Ferne Health sells the following kits:
-
-1. Cervical Cancer HPV ($200) – Screen for high-risk HPV strains that could lead to cervical cancer. 
-2. UTI, Yeast Infection, BV ($50) – Designed to help women better understand their reproductive health.
-3. Gonorrhea and Chlamydia for Women ($180) – Screen for the two most common STIs: Gonorrhea and Chlamydia.
-4. Gonorrhea and Chlamydia for Men ($180) – Screen for the two most common STIs: Gonorrhea and Chlamydia.
-
 ### Founder
 
 - [Xi Liu](https://www.linkedin.com/in/xil01/), Founder and CEO
@@ -133,10 +112,6 @@ Similar to [this article](https://www.ycombinator.com/library/2z-pinduoduo-and-t
 After downloading their app, you find a restaurant or activity, start a group buy and invite your friends. The more friends that pre-pay and join the group, the larger the discount for the group.
 
 There’s an inherent growth loop built into the product. For every person that starts a group and invites their friends, some of those friends will start a new group, invite their friends and so on. It takes time to get this working right but when you do, these types of products can grow very fast. Pinduoduo did almost $4.5B in revenue after only 5 years.
-
-### Stage
-
-When we first talked to them, they hadn't launched yet. We told them they should launch immediately and a few days later, they did. It's this type of hustle and execution that differentiates the great founders from the good ones. They have contact information for 9,000 businesses and are actively onboarding them now.
 
 ### Founders
 
@@ -159,10 +134,6 @@ Coding schools are a tough space. There’s lots of them, they are geographicall
 
 We think their timing couldn’t be better. We believe COVID has significantly accelerated the adoption of online learning and as a result, the market got significantly bigger quickly.Southeast Asia is still in dire need of technical talent. There’s now room for a dominant player.
 
-### Stage
-
-Coder School has already graduated 180 students and makes roughly $500k+ per year in tuitions with two flagship products: (1) full-stack web development and (2) machine learning . They've also provided companies with a B2B product to train their employees as well as experimented with ISAs.
-
 ### Founders
 
 - [Charles Lee](https://www.linkedin.com/in/charleslee5/), CEO
@@ -179,10 +150,6 @@ Helping businesses go global.
 ### Why We're Excited
 
 1Export helps MSMEs (micro, small and medium enterprises) in the Philippines, sell their products internationally. At the moment, they primarily sell Filipino food-related goods to the United States, Singapore, the Middle East and Israel. Their value lays is in their ability to bundle everything an MSME needs to sell internationally. Specifically, localization (labels, translations, etc.), logistics and being able to sell to retailers in the target countries. We like this space because it's a continuation of the trends that Stripe and Shopify have set to let any business easily reach a new audience. 1Exports ability to turn any business into a global brand will be important as we move into an era of greater globalization and digitalization.
-
-### Stage
-
-1Export was able to double their revenues last year and are doing about $500k in ARR right now. They're growing 15% MoM. More importantly, their product suite is much more comprehensive then most startups we've run across which is important here because with something like this, offline businesses just want everything white-gloved.
 
 ### Founders
 

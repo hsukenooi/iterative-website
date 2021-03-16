@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Invest in Slope"
-date: 2021-02-25 15:00:00 +0800
+date: 2021-03-16 15:00:00 +0800
 author: "Hsu Ken Ooi"
 categories: blog 
-excerpt: "In the past 3 months, we've met with over 220 companies from all over Southeast Asia and are excited to announce our Winter 2021 batch." 
-image: /assets/blog/2021-02-25-post-cover.jpg
+excerpt: "An obvious but overlooked difference between founders and investors is, founders are concerned with how to make their startup successful, and investors are concerned with how to tell if someone else’s startup will be successful. I find that thinking of each startup as a line, is a helpful mental model for assessing whether they will be successful." 
+image: /assets/blog/2021-03-16-invest-in-slope-cover.jpg
 ---
 
 A benefit of studying mathematics is, you learn how to describe things and their relationships with each other. For example, if you want to describe a line, you can with the equation y = mx + b, where b is the y-intercept and m is the slope given any point x. 

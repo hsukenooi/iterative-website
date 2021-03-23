@@ -8,11 +8,11 @@ excerpt: "An obvious but overlooked difference between founders and investors is
 image: /assets/blog/2021-03-16-invest-in-slope-cover.jpg
 ---
 
-A benefit of studying mathematics is, you learn how to describe things and their relationships with each other. For example, if you want to describe a line, you can with the equation y = mx + b, where b is the y-intercept and m is the slope given any point x. 
+A benefit of studying mathematics is, you learn how to describe things and their relationship relative to each other. For example, if you want to describe a line, you can with the equation y = mx + b, where b is the y-intercept and m is the slope. 
 
 I know what you’re thinking, that’s cool but other than passing an elementary school math test, how does knowing something like that help you? It turns out that by knowing how to describe a line, that knowledge carries over to things that resemble a line. Like startups. 
 
-An obvious but overlooked difference between founders and investors is, founders are concerned with how to make their startup successful, and investors are concerned with how to tell if someone else’s startup will be successful. I find that thinking of each startup as a line, is a helpful mental model for assessing whether they will be successful. The first time we meet with a startup is x = 0 and therefore their traction at that time is their y-intercept. The interesting question is what’s their slope? Not an easy question to answer. The entire venture capital industry is dedicated to answering this single question. 
+An obvious but overlooked difference between founders and investors is, founders are concerned with how to make their startup successful, investors are concerned with how to tell if someone else’s startup will be successful. Having spent most of my time as the former but now the latter, I find that thinking of each startup as a line, is a helpful mental model for assessing whether they will be successful. The first time we meet with a startup is x = 0, think of x as representing time, and their traction at that time is the y-intercept. The interesting question is what’s their slope? Not an easy question to answer. The entire venture capital industry is dedicated to answering this one question. 
 
 Before attempting to answer it, let's talk about why it's the most important question. 
 
@@ -83,7 +83,7 @@ Given these growth rates, here’s how big each of these startups will be in the
 
 Startup C will be orders of magnitude larger than Startup A or Startup B. Remember, if you’re growing by the same number of users every week, your growth is actually slowing as a % of your user base (Startup A and Startup B). If you can maintain growth as a % of your user base, you’re growing exponentially (Startup C). That’s why success in our program is growing 5% to 7% weekly for the duration of the program. If they grow 7% for the duration of the program (12 weeks), they will be 2.25x larger. If they grow 7% for an entire year, they will be 33.7x larger.
 
-Growing non-linearly is hard but not complicated [<a href="#f3">3</a>]. Think about your growth as a stacked bar chart of initiatives. Every week, each of those initiatives will generate some amount of growth (users, revenue, etc.). When an initiative stops generating growth, you need to find another initiative to make up for it or your overall growth rate will decrease.
+Growing non-linearly is hard but not complicated [<a href="#f3">3</a>]. Think about your growth as the result of a set of growth initiatives. Every week, each of those initiatives will generate some amount of growth (users, revenue, etc.). When an initiative stop generating growth, you need to find another initiative to make up for the loss in production otherwise your overall growth rate will decrease.
 
 Given this, a good way to grow non-linearly is to work on growth initiatives that are (1) repeatable and (2) have low marginal cost. These types of initiatives generate growth each week with very little additional effort. That gives you time to work on other growth initiatives that will add to your overall growth. Content marketing and SEO are both examples of this but require significant effort before they reach this state. For some companies (B2B, D2C, some marketplaces), paid marketing might fit this criteria if you think of marginal cost as time instead of actually $ cost.
 

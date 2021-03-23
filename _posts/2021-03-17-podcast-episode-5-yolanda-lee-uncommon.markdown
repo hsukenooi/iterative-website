@@ -8,12 +8,7 @@ excerpt: "In this episode, we have Yolanda Lee, co-founder of Uncommon. Uncommon
 image: /assets/blog/2021-03-17-podcast-cover.jpeg
 ---
 
-<iframe width="610" height="315" style="margin-bottom: 25px;" src="https://www.youtube.com/embed/TIqX0HP-XMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [Watch it on YouTube](https://www.youtube.com/watch?v=TIqX0HP-XMw&ab_channel=Iterative) 👀 
-* [Listen to the podcast](https://anchor.fm/iterativevc/episodes/Yolanda-Lee-on-Finding-Her-Own-Path-and-Building-a-Professional-Community-for-Women-espuni) 🎧 
-
-## Description
+<iframe width="640" height="360" style="margin-bottom: 25px;" src="https://www.youtube.com/embed/TIqX0HP-XMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In this episode, we have [Yolanda Lee](https://www.linkedin.com/in/yolanda-lee-8b936626/), co-founder of [Uncommon](https://www.heyuncommon.com/). Uncommon is a private leadership network for the next generation of female leaders in the nation. Uncommon is a private leadership network for the next generation of female leaders in Asia. Uncommon provides a strong and uplifting network, a personalized development roadmap, tailored courses and workshops, and enriching speaker series, all in one membership.
 
@@ -21,6 +16,9 @@ At 20, Yolanda rented an abandoned industrial warehouse in her hometown of Toron
 
 Towards the end of our conversation, she opens up about her motivation for starting Uncommon, what her personal experience has been in male dominated industries, why Uncommon is so important and what we, especially men, can do to help.
 
+Subscribe on [Apple Podcast](https://podcasts.apple.com/us/podcast/iterative/id1537422732) • [RSS](https://anchor.fm/s/3a92414c/podcast/rss) • [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zYTkyNDE0Yy9wb2RjYXN0L3Jzcw==) • [Overcast](https://overcast.fm/itunes1537422732/the-iterative-podcast) • [Spotify](https://open.spotify.com/show/43qJADqK3Ip8hCbfaIyAFO) • [YouTube](https://www.youtube.com/channel/UCl_D9oEInYm6PSzgOJYcRYA)
+
+<iframe src="https://anchor.fm/iterativevc/embed/episodes/Yolanda-Lee-on-Finding-Her-Own-Path-and-Building-a-Professional-Community-for-Women-espuni" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Topics
 

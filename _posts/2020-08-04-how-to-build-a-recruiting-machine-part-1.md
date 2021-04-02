@@ -17,7 +17,7 @@ Since we typically work with earlier stage companies, I'm going to try to focus 
 
 Part 1 of this series will focus on (1) Why you should care and (2) Tips to draft your first job post. Later parts will get into sourcing, pipeline, and closing.
 
-## Why should you care?
+## Why Should You Care?
 
 If you're reading this guide, you probably already care, but lets cover this briefly. As a tech startup, people are going to be the majority of your costs as well as the biggest lever to your growth. In fast paced startups, ideas are plentiful, what matters is execution and a 10x team specifically honed to execute on your specific mission will outperform one that is haphazardly built. 
 
@@ -30,7 +30,7 @@ A couple more things to note:
 
 Don't be discouraged though, doing a great job with hiring will save you tons of headaches down the road. A well-built team will make executing, planning, navigating, fundraising, and even more hiring much easier in the future.
 
-## Stage matters: Traps to Avoid
+## Stage Matters: Traps to Avoid
 
 I've consistently run into very distinct stages that require different hiring strategies as the company has scaled. The reason this happens is because a person's most efficient span of control (the number of people that report to you where you actually have some influence) is between 6-8. That means each power of ~7 is approximately a different stage of the company. I've outlined these stages in the table below as well as what makes the stages slightly different.
  
@@ -88,7 +88,7 @@ I've consistently run into very distinct stages that require different hiring st
 
 For the purposes of this article, I'm going to focus on the pizza team and small company stages and things to look out for there. I'll avoid the 'how to find a cofounder' discussions, or the 'how to do executive hiring' discussions and save those for a future writeup.
 
-## Building a recruiting process
+## Building a Recruiting Process
 
 Let's go back to the pizza team stage. You're a rag-tag team of people that you generally mutually trust and are fairly competent, but oftentimes doing the job for the first time. In addition to executing, aligning on goals, etc, you need to start thinking about how to bring on your next 'batch' of colleagues. Here are the things to focus on to build a recruiting machine. Remember again, recruiting is sales.
 

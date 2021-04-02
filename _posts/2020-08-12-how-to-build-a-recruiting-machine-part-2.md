@@ -31,7 +31,7 @@ In the early days, of the people we hired, 80%+ were from referrals. While it mi
 
 As a last note: I've found the easiest way for myself to do this effectively is to just block an hour every morning or night to do recruiting consistently. That way you time-box your allocation to recruiting while still being able to get other important startup execution work done. If you haven't pulled your teammates into this as well, you should consider doing that. Recruiting is a team effort.
 
-## Process: How to Design The Recruiting Funnel
+## Process: How to Design the Recruiting Funnel
 
 Congrats, now you have a ton of people (hopefully at least 50) you need to run the 'sales funnel' on. There's no right or wrong way to do this, but I've found some things that have worked well for me. Remember just like with product, or sales, the trick here is to keep experimenting with your process to tune for more efficient time commitment, higher signal, not rejecting too soon or too late, etc.
 

@@ -37,3 +37,4 @@ Recruiting is something that almost all first-time founders get wrong. Having st
 3. [How to Build a Recruiting Machine: Part 3](https://iterative.vc/blog/2020/09/03/how-to-build-a-recruiting-machine-part-3.html)
 
 Subscribe on [Apple Podcast](https://podcasts.apple.com/us/podcast/iterative/id1537422732) • [RSS](https://anchor.fm/s/3a92414c/podcast/rss) • [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zYTkyNDE0Yy9wb2RjYXN0L3Jzcw==) • [Overcast](https://overcast.fm/itunes1537422732/the-iterative-podcast) • [Spotify](https://open.spotify.com/show/43qJADqK3Ip8hCbfaIyAFO) • [YouTube](https://www.youtube.com/channel/UCl_D9oEInYm6PSzgOJYcRYA)
+

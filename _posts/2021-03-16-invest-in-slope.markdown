@@ -37,7 +37,7 @@ Back to the question of estimating the the slope of an early-stage startup. It's
 
 Good founders in good markets are obviously good. Bad founders in bad markets are obviously bad. What isn’t obvious is whether good founders in bad markets or bad founders in good markets better? I’d argue good founders, bad markets > bad founders, good markets because good founders can find their way into a better market[<a href="#f1">1</a>]. Bad founders in a good market will likely be outcompeted by better founders who are pulled into the good market. As an investor, you hopefully invest as much as you can in good founders in good markets, some good founders in bad markets, a very few bad founders in good markets, and no bad founders in bad markets.
 
-### Founders
+## Founders
 If you take the above to be true, this yields an interesting result. There’s just one rule, invest in good founders.
 
 How can you tell if the founders are good? In our experience, successful founders possess accurate mental models on how the world, as it relates to their business, works. Such that given a desired outcome (ie. 2x growth), they can run a simulation in their head, based on their mental model, and figure out what they need to do to produce the desired outcome. 
@@ -59,14 +59,14 @@ Said another way, consider the following 2 founders:
 
 On average, Founder A will have their first success in 10 trials (1/.10) or 10 weeks. On average, Founder B will have their first success in only 5 trials but, since they run experiments monthly, that's 5 months or 20 weeks. It pays to be fast.
 
-### Market
+## Market
 There’s entire books written on what makes a market good and how to identify them but simplistically, I think about it along 2 axes: (1) how many people do you help? and (2) how much do you help each person? Thinking about it this way, yields the following:
 
 <img class="img-fluid" src="/assets/blog/2021-03-16-market.png">
 
 Products that help many people a lot are obviously great. Products that help a few people a little are obviously bad. You could argue that products that help a lot of people a little are better than products that help a few people a lot but in my experience the reverse is true. Practically, if you have a small number of people who care a lot about what you're doing, it is easier to build a product because you're building for a narrow set of use cases and your customers are by definition more likely to give you feedback. It's easier to monetize because they care a lot about it. It's easier to find more people who care a lot about something than it is to get an existing group of people to care more about something.
 
-### Non-Linear
+## Non-Linear
 So far, the type of lines we’ve been talking about are called linear lines. In Mathematics, there are also non-linear lines where the slope is not constant. They can increase and decrease as they go along. They are a little more complicated but a  more accurate representation of a startup’s trajectory.
 
 For example, say a startup announces a new round of funds and receives favorable press. Their slope will increase sharply for a short period of time but eventually revert back to where it was originally.
@@ -97,7 +97,7 @@ In summary, if you’re an investor, invest in slope especially if it’s non-li
 
 <br>
 
-### Footnotes
+## Footnotes
 
 <p id="f1">[1] This is more true for early stage companies, maybe less true for later stage companies.</p>
 <p id="f2">[2] For the really big math nerds, this is the slope of the slope or the derivative of the slope.</p>

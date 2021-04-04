@@ -5,7 +5,7 @@ date: 2021-03-31 17:21:06 +0800
 author: "Hsu Ken Ooi"
 categories: announcements 
 excerpt: "On Wednesday, 14 April at 10am, Iterative will host Demo Day for our Winter 21 batch. Demo Day is for an invite-only audience."
-image: 2021-04-02-w21-virtual-demo-cover.jpeg 
+image: /assets/blog/2021-04-02-w21-virtual-demo-cover.jpeg 
 ---
 
 On Wednesday, 14 April at 10am, Iterative will host Demo Day for our Winter 21 batch. Demo Day is for an invite-only audience. If you're an investor or a member of the press, please [apply to attend](https://airtable.com/shr0Z0r7QZhEDEanq).

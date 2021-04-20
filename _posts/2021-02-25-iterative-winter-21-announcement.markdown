@@ -77,7 +77,7 @@ The GoZayaan team is already 40+ people headed by Ridwan who's been working tire
 
 <h2><a href="https://www.fernehealth.com/" target="_blank">Ferne Health</a></h2>
 
-At home healthcare screening for women.
+At-home screening services for sexual health.
 
 <a href="https://www.fernehealth.com/" target="_blank"><img class="expanded" src="/assets/blog/2021-02-25-ferne-health.jpg"></a>
 

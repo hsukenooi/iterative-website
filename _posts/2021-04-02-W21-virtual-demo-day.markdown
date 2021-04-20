@@ -21,7 +21,7 @@ On Wednesday, 14 April at 10am, Iterative will host Demo Day for our Winter 21 b
 - [String Soul](http://stringsoul.co/) – Remote music lessons for kids
 - [Spenmo](https://spenmo.com/) – Helping companies manage spend
 - [GoZayaan](https://www.gozayaan.com/) – Travel platform for Bangladesh
-- [Ferne Health](https://www.fernehealth.com/) – At-home health screening for women
+- [Ferne Health](https://www.fernehealth.com/) – At-home screening services for sexual health
 - [Duoria](https://www.duoria.com/) – Pinduoduo for restaurants and activities
 - [CoderSchool](https://www.coderschool.vn/en/) – Lambda School for Southeast Asia
 - [1Export](https://1export.net/) – Helping Philippines suppliers go global

@@ -10,4 +10,4 @@ Recommend a founder who has applied or who you think should apply to Iterative. 
 
 We take recommendations seriously. Often we’re betting on the founders more than the idea so we like to hear from people who know them well or have worked with them before. You can recommend as many founders as you like.
 
-<a href="https://airtable.com/shrmLNUKq1qr94YkW" class="btn btn-primary " tabindex="-1" role="button" aria-disabled="true" target="_blank">Make a Recommendation</a>
+<a href="https://airtable.com/shra4vKK78PMXyRRS" class="btn btn-primary " tabindex="-1" role="button" aria-disabled="true" target="_blank">Make a Recommendation</a>

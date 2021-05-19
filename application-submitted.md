@@ -15,7 +15,4 @@ If invited, our admission process consists of the following:
 
 ## Recommendations
 
-Maybe more important than what the startup does is how formidable the founders are. Often that’s hard to tell without talking to them. Unfortunately we don’t have time to talk to everyone that applies. We have found that recommendations are a reasonable proxy. Good people tend have people willing to vouch for them. 
-
 If you have people willing to recommend you, we highly recommend you ask them to do so [here]({{site.url}}/recommend). It will only take them a few minutes and will significantly help your application.
-

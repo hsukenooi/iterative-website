@@ -19,5 +19,9 @@ A few things to know before applying.
 
 If you want more information about the program go [here]({{site.url}}/about). If you're ready to apply click the button below to submit your application.
 
-<a href="https://airtable.com/shrmLNUKq1qr94YkW" class="btn btn-primary " tabindex="-1" role="button" aria-disabled="true" target="_blank">Start Application</a>
+<a href="https://airtable.com/shrmLNUKq1qr94YkW" class="btn btn-primary " tabindex="-1" role="button" aria-disabled="true" target="_blank" id="start-application">Start Application</a>
+
+<script type="text/javascript">
+  mixpanel.track_links('#start-application', 'Clicked Start Application');
+</script>
 

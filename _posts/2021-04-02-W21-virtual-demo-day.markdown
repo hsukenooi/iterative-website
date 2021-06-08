@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iterative Winter 21 Virtual Demo Day"
-date: 2021-03-31 17:21:06 +0800
+date: 2021-04-02 17:21:06 +0800
 author: "Hsu Ken Ooi"
 categories: announcements 
 excerpt: "On Wednesday, 14 April at 10am, Iterative will host Demo Day for our Winter 21 batch. Demo Day is for an invite-only audience."

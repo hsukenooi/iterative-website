@@ -1,7 +1,43 @@
 ---
 layout: static
 title: "Companies"
-accelerator: 
+w21: 
+  1export:
+    name: "1Export"
+    url: "https://1export.net/"
+    description: "Helping businesses go global."
+    image: /assets/companies/1export-logo.png
+  coderschool: 
+    name: "CoderSchool"
+    url: "https://www.coderschool.vn/en/"
+    description: "Scalable coding education in Southeast Asia."
+    image: /assets/companies/coderschool-logo.png 
+  duoria: 
+    name: "Duoria"
+    url: "http://duoria.com/"
+    description: "Pinduoduo for experiences."
+    image: /assets/companies/duoria-logo.png 
+  ferne_health: 
+    name: "Ferne Health"
+    url: "https://www.fernehealth.com/"
+    description: "At-home screening services for sexual health."
+    image: /assets/companies/ferne-health-logo.png 
+  go_zayaan: 
+    name: "Go Zayaan"
+    url: "https://www.gozayaan.com/"
+    description: "Moving travel online in Bangladesh."
+    image: /assets/companies/go-zayaan-logo.png 
+  spenmo: 
+    name: "Spenmo"
+    url: "https://spenmo.com/"
+    description: "Bill.com for SMBs in SE Asia."
+    image: /assets/companies/spenmo-logo.png 
+  string_soul: 
+    name: "String Soul"
+    url: "https://stringsoul.co/"
+    description: "Remote music lessons for kids."
+    image: /assets/companies/string-soul-logo.png 
+s20: 
   become:
     name: "Become"
     url: "https://become.my/"
@@ -164,11 +200,31 @@ capital:
 
 <div class="row justify-content-center">
   <div class="col-lg-8 col-md-12">
-    <h2 class="text-center">Iterative</h2>
+    <h2 class="text-center">Winter 2021</h2>
   </div>
 </div>
 
-{% for company in page.accelerator %}
+{% for company in page.w21%}
+  {% assign mod = forloop.index | modulo: 4 %}
+  {% if mod == 1 %}
+    <div class="row">
+  {% endif %}
+    {% assign company = company %}
+    {% include company_tile.html company = company %}
+  {% if mod == 0 %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+</div>
+
+<div class="row justify-content-center">
+  <div class="col-lg-8 col-md-12">
+    <h2 class="text-center">Summer 2020</h2>
+  </div>
+</div>
+
+{% for company in page.s20%}
   {% assign mod = forloop.index | modulo: 4 %}
   {% if mod == 1 %}
     <div class="row">

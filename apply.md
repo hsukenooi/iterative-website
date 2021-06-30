@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "Apply to Iterative"
+image: /assets/apply-to-iterative-s21.jpg
 ---
 
 Iterative is accepting applications for the Summer 2021 (S21) batch that takes place from July to September 2021.

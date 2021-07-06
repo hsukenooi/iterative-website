@@ -17,6 +17,8 @@ We do 3 things.
 
 We invest US$150K for 10% of your startup. This is the least important thing we do. We think of our investment as a show of commitment and to align incentives. There is no program fee.
 
+Note: We have made exceptions in the past but they are exceedingly rare.
+
 ### 2. Work With You On Your Idea 
 
 This is the most important thing we do. We're founders too. Together we've started 3 companies ([Decide](https://venturebeat.com/2013/09/06/ebay-buys-shopping-research-site-decide-com/),

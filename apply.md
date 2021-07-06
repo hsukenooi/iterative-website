@@ -8,7 +8,7 @@ Iterative is accepting applications for the Summer 2021 (S21) batch that takes p
 
 A few things to know before applying.
 
-1. **Applying** – If you want to apply, please submit your application online by 8 pm SGT on July 12. Startups that submit early have a small advantage because we have more time to read their applications. And you can submit after the deadline - though keep in mind that if you apply late, we can’t guarantee the exact date of when you’ll hear back from us with a decision.
+1. **Applying** – If you want to apply, please submit your application online by 8 pm SGT on July 2. Startups that submit early have a small advantage because we have more time to read their applications. You can submit after the deadline but depending on the # of applications, we can't guarantee we'll get to it. We'll do our best though..
 2. **Founders Only** – Only founders can come to interviews or attend batch events.
 3. **Rolling Admission** – We will be inviting teams to talk to us on a rolling basis and hold final interviews at the end of every month until the batch.
 4. **Remote** – Like the previous batches, this batch will be remote. It’s worked well. In fact, except for maybe the social aspect (we’re working on it), we think founders get better advice and fundraising help because we can pull experts from anywhere including our network in San Francisco. All of that and you get to stay focused on your home market.

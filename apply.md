@@ -1,14 +1,14 @@
 ---
 layout: post 
 title: "Apply to Iterative"
-image: /assets/apply-to-iterative-s21.jpg
+image: /assets/apply-to-iterative-w22.jpg
 ---
 
-Iterative is accepting applications for the Summer 2021 (S21) batch that takes place from July to September 2021.
+Iterative is accepting applications for the Winter 2022 batch that takes place from January to April 2022. We know that feels like a long time from now but we admit (and invest in) companies on a rolling basis so we recommend you apply now. It also gives us an opportunity to get to know you, follow your progress and hopefully be helpful along the way.
 
 A few things to know before applying.
 
-1. **Applying** – If you want to apply, please submit your application online by 8 pm SGT on July 2. Startups that submit early have a small advantage because we have more time to read their applications. You can submit after the deadline but depending on the # of applications, we can't guarantee we'll get to it. We'll do our best though..
+1. **Applying** – Startups that submit early have a small advantage because we have more time to read their applications. You can submit after the deadline but depending on the # of applications, we can't guarantee we'll get to it. We'll do our best though.
 2. **Founders Only** – Only founders can come to interviews or attend batch events.
 3. **Rolling Admission** – We will be inviting teams to talk to us on a rolling basis and hold final interviews at the end of every month until the batch.
 4. **Remote** – Like the previous batches, this batch will be remote. It’s worked well. In fact, except for maybe the social aspect (we’re working on it), we think founders get better advice and fundraising help because we can pull experts from anywhere including our network in San Francisco. All of that and you get to stay focused on your home market.

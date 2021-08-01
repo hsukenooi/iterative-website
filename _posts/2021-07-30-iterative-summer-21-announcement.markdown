@@ -21,11 +21,11 @@ Without further ado - here is **Iterative Summer 2021**:
 2. [**BotSync**](https://www.botsync.co/) (Singapore) – Warehouse robotic automation
 3. [**Friz**](https://usefriz.com/) (Singapore) – Neobank for freelancers 
 4. [**Hawkr**](https://hawkrfood.com/) (Malaysia) – Airbnb for food
-5. [**JiPay**](https://www.jipay.app/) (Singapore) – Bringing domestic work into the cashless economy
+5. [**JiPay**](https://www.jipay.app/) (Singapore) – Creating a super app for domestic work
 6. [**Kludio**](http://kludioasia.com/) (Bangladesh) – Fullstack cloud kitchens
 7. [**RIDA**](https://rida.ai/) (Singapore) – Realtime delivery aggregation
 8. [**Shipmates**](https://shipmates.app/) (Philippines) – Local courier marketplace for the Philippines
-9. [**Supabaza**](https://www.supabaza.com/) (Malaysia) – Online supermarket for Southeast Asia
+9. [**SUPABAZA**](https://www.supabaza.com/) (Malaysia) – Online supermarket for Southeast Asia
 10. [**Zi.Care**](https://zicare.id/) (Indonesia) – Electronic medical records in Indonesia
 
 <!-- Acadarena -->
@@ -176,15 +176,15 @@ Hawkr creates micro cloud kitchens and enables home cooks to provide food servic
 
 <!-- Jipay -->
 
-<h2><a href="https://www.jipay.app/" target="_blank">Hawkr</a></h2>
+<h2><a href="https://www.jipay.app/" target="_blank">Jipay</a></h2>
 
-Bringing domestic work into the cashless economy.
+Creating a super app for domestic work.
 
 <a href="https://www.jipay.app/" target="_blank"><img class="expanded" src="/assets/blog/2021-07-30-jipay.jpeg"></a>
 
 ### Why We're Excited
 
-Jipay helps domestic helpers manage spend. Their Expense Card is a dedicated card for domestic helpers to do groceries and purchase items for the household. It allows the family to monitor transactions and overcome all the inconveniences of using cash, the default method today. No more reconciling receipts and no more trips to the ATM. In the near future, JiPay will also be providing additional financial services for domestic workers to make their lives even easier. There's 67M global domestic workers with the majority of them concentrated in Asia today all using non-digital and hard to manage methods of payment. We think bringing them all online is going to be inevitable.
+Jipay helps domestic helpers manage spend. Their expense card is a dedicated card for domestic helpers to do groceries and purchase items for the household. It allows the family to monitor transactions and overcome all the inconveniences of using cash, the default method today. No more reconciling receipts and no more trips to the ATM. In the near future, JiPay will also be providing additional financial services for domestic workers to make their lives even easier. There's 67M global domestic workers with the majority of them concentrated in Asia today all using non-digital and hard to manage methods of payment. We think bringing them all online is going to be inevitable.
 
 ### Founders
 
@@ -294,7 +294,7 @@ Booking on-demand and next-day shipments with multiple couriers like Lalamove, E
 
 <!-- Supabaza -->
 
-<h2><a href="https://www.supabaza.com/" target="_blank">Supabaza</a></h2>
+<h2><a href="https://www.supabaza.com/" target="_blank">SUPABAZA</a></h2>
 
 Online supermarket for Southeast Asia's masses.
 
@@ -302,7 +302,7 @@ Online supermarket for Southeast Asia's masses.
 
 ### Why We're Excited
 
-While personal care, household goods, electronics, and clothing have all reached >8% online penetration in SEA, online groceries is still at a dismal <1%. That number is even lower in sub-urban neighborhoods. To address the structural differences of suburbs versus the city, Supabaza is applying an agent distribution model to grocery logistics not dissimilar to what leading couriers in the region have moved to. Using agents for last mile distribution decreases costs and increases efficiency allowing supabaza to reach customers that traditional online retail can't.Remote music lessons for kids.
+While personal care, household appliances, electronics, and clothing have all reached >7% online penetration in SEA, online groceries is still at a dismal <1%. That number is even lower in sub-urban neighborhoods. To address the structural differences of suburbs versus the city, SUPABAZA is applying an agent distribution model to grocery logistics not dissimilar to what leading couriers in the region have moved to. Using agents for last mile distribution decreases costs and increases efficiency allowing SUPABAZA to reach customers that traditional online retail can't.
 
 ### Founders
 
@@ -321,7 +321,7 @@ While personal care, household goods, electronics, and clothing have all reached
   </div>
 </div>
 
-<br>Eugene and Sim are both veterans in logistics - having cut their teeth at head of retail and engineering at NinjaVan. We're excited to see them apply the tricks and best practice they learned at a leading logistics company to drastically improve the online grocery delivery model.
+<br>Eugene and Sim are both veterans in logistics - having cut their teeth at head of retail and engineering at Ninja Van. We're excited to see them apply the tricks and best practice they learned at a leading logistics company to drastically improve the online grocery delivery model.
 
 <!-- Zi.Care -->
 

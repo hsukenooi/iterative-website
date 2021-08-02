@@ -17,7 +17,7 @@ Some interesting notes:
 
 Without further ado - here is **Iterative Summer 2021**:
 
-1. [**AcadArena**](https://www.acadarena.com/) (Philippines) – NCAA of esports in Southeast Asia
+1. [**AcadArena**](https://www.acadarena.com/) (Philippines) – Home of campus gaming in Southeast Asia
 2. [**BotSync**](https://www.botsync.co/) (Singapore) – Warehouse robotic automation
 3. [**Friz**](https://usefriz.com/) (Singapore) – Neobank for freelancers 
 4. [**Hawkr**](https://hawkrfood.com/) (Malaysia) – Airbnb for food
@@ -32,7 +32,7 @@ Without further ado - here is **Iterative Summer 2021**:
 
 <h2><a href="https://www.acadarena.com/" target="_blank">Acadarena</a></h2>
 
-NCAA of esports in Southeast Asia.
+Home of campus gaming in Southeast Asia
 
 <a href="https://www.acadarena.com/" target="_blank"><img class="expanded" src="/assets/blog/2021-07-30-acadarena.jpg"></a>
 

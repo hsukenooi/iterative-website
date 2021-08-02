@@ -141,7 +141,7 @@ Freelancers don't fit the mold of traditional banking. Because of unstable incom
   </div>
 </div>
 
-<br>Nirali and Ash both come from fintech backgrounds, with Nirali's ex-mastercard expensive and Ash's technical background from DBS bank, there isn't a better power-team to provide financial access to what is clearly going to be an important segment.
+<br>Nirali and Ash both come from fintech backgrounds, with Nirali's Mastercard experience and Ash's technical background from DBS bank, there isn't a better power-team to provide financial access to what is clearly going to be an important segment.
 
 <!-- Hawkr -->
 
@@ -172,7 +172,7 @@ Hawkr creates micro cloud kitchens and enables home cooks to provide food servic
   </div>
 </div>
 
-<br>Li Yen and Edward both come from hospitality backgrounds from both the US and Malaysia. Li Yen while young start and sold a jewelry business to afford a ticket and stay in the US - that's the type of hustle that it's going to take to get this marketplace off the ground. We're excited to support Li Yen and Ed on their journey.
+<br>Li Yen and Edward both come from hospitality backgrounds from both the US and Malaysia. Li Yen while young, started and sold a jewelry business to afford a ticket and stay in the US - that's the type of hustle it's going to take to get this marketplace off the ground. We're excited to support Li Yen and Ed on their journey.
 
 <!-- Jipay -->
 
@@ -184,7 +184,7 @@ Creating a super app for domestic work.
 
 ### Why We're Excited
 
-Jipay helps domestic helpers manage spend. Their expense card is a dedicated card for domestic helpers to do groceries and purchase items for the household. It allows the family to monitor transactions and overcome all the inconveniences of using cash, the default method today. No more reconciling receipts and no more trips to the ATM. In the near future, JiPay will also be providing additional financial services for domestic workers to make their lives even easier. There's 67M global domestic workers with the majority of them concentrated in Asia today all using non-digital and hard to manage methods of payment. We think bringing them all online is going to be inevitable.
+Jipay helps domestic helpers manage spend. Their expense card is a dedicated card for domestic helpers to do groceries and purchase items for the household. It allows the family to monitor transactions and overcome all the inconveniences of using cash, the default method today. No more reconciling receipts and no more trips to the ATM. In the near future, Jipay will also be providing additional financial services for domestic workers to make their lives even easier. There is 67M global domestic workers with the majority of them concentrated in Asia today, all using non-digital and hard to manage methods of payment. We think bringing them all online is going to be inevitable.
 
 ### Founders
 
@@ -234,7 +234,7 @@ Kludio is a full stack food delivery platform leveraging cloud kitchens and tech
   </div>
 </div>
 
-<br>Kishwar has held various roles at some of the fastest growing tech startups in Bangladesh (Pathao, Truck Lagbe) before joining forces with Tishad to launch Kludio. Kishwar's mix of operational, growth, and marketing prowess mixed with Tishad's tech expertise makes them the perfect team to attack the Kludio opportunity. 
+<br>Kishwar has held various roles at some of the fastest growing tech startups in Bangladesh (Pathao, Truck Lagbe) before joining forces with Tishad to launch Kludio. Kishwar's mix of operational, growth, and marketing prowess combined with Tishad's tech expertise makes them the perfect team to attack the Kludio opportunity. 
 
 <!-- Rida -->
 
@@ -246,7 +246,7 @@ Same-day delivery platform.
 
 ### Why We're Excited
 
-Doing same day delivery is hard. Most ecommerce or retail businesses can't do this by themselves unless they have a massive amount of resources to devote to logistics. Rida uses technology to provide a layer on top of existing 3PL companies which enables routing to these services in real-time enabling various shipping products (on-demand, 2hr, 4 hour windows, scheduled, etc) to be delivered with just an API integration. This saves merchants time, cost, and provides better service for customers. With the rise and now fragmentation of delivery networks in Singapore and beyond, we think an aggregate layer will be the next evolution of logistics tech.
+Doing same day delivery is hard. Most ecommerce or retail businesses can't do this by themselves unless they have a massive amount of resources to devote to logistics. Rida uses technology to provide a layer on top of existing 3PL companies that enables routing to these services in real-time allowing various shipping products (on-demand, 2hr, 4 hour windows, scheduled, etc) to be delivered with just an API integration. This saves merchants time, cost, and provides better service for customers. With the rise and now fragmentation of delivery networks in Singapore and beyond, we think an aggregate layer will be the next evolution of logistics tech.
 
 ### Founders
 
@@ -271,7 +271,7 @@ Connecting online businesses with local couriers in the Philippines.
 
 ### Why We're Excited
 
-Booking on-demand and next-day shipments with multiple couriers like Lalamove, Entrego, XDE, etc in the Philippines is hard. Its not clear who's going to be available, who's reliable, what the best prices are or will be, etc. Philippines also is more complicated because of the need to ship between multiple islands. Shipmates makes it super easy to immediately integrate shipping into businesses or shopify stores. Shipping aggregation services will exist in every geography, we're excited to back shipmates to be the ones to dominate the Philippines.
+Booking on-demand and next-day shipments with multiple couriers like Lalamove, Entrego, XDE, etc in the Philippines is hard. It's not clear who's going to be available, who's reliable, what the best prices are or will be, etc. Philippines also is more complicated because of the need to Ship between multiple islands. Shipmates makes it super easy to immediately integrate shipping into businesses or shopify stores. Shipping aggregation services will exist in every geography, we're excited to back shipmates to be the ones to dominate the Philippines.
 
 ### Founders
 
@@ -290,7 +290,7 @@ Booking on-demand and next-day shipments with multiple couriers like Lalamove, E
   </div>
 </div>
 
-<br>Both Josh and David have had multiple startups under their belts previously growing xpanse and shirt.ly on both the business and technical sides. Their previous experience growing an Ecommerce business was what led them to focus on going deep into shipping to solve this for everyone. We love businesses and founders who solve their own pain points!
+<br>Both Josh and David have had multiple startups under their belts previously growing xpanse and shirt.ly on both the business and technical sides. Their previous experience growing an ecommerce business was what led them to focus on going deep into shipping to solve this for everyone. We love businesses and founders who solve their own pain points!
 
 <!-- Supabaza -->
 
@@ -302,7 +302,7 @@ Online supermarket for Southeast Asia's masses.
 
 ### Why We're Excited
 
-While personal care, household appliances, electronics, and clothing have all reached >7% online penetration in SEA, online groceries is still at a dismal <1%. That number is even lower in sub-urban neighborhoods. To address the structural differences of suburbs versus the city, SUPABAZA is applying an agent distribution model to grocery logistics not dissimilar to what leading couriers in the region have moved to. Using agents for last mile distribution decreases costs and increases efficiency allowing SUPABAZA to reach customers that traditional online retail can't.
+While personal care, household appliances, electronics, and clothing have all reached >7% online penetration in SEA, online groceries is still at a dismal <1%. That number is even lower in suburban neighborhoods. To address the structural differences of suburbs versus the city, SUPABAZA is applying an agent distribution model to grocery logistics not dissimilar to what leading couriers in the region have moved to. Using agents for last mile distribution decreases costs and increases efficiency allowing SUPABAZA to reach customers that traditional online retail can't.
 
 ### Founders
 
@@ -321,7 +321,7 @@ While personal care, household appliances, electronics, and clothing have all re
   </div>
 </div>
 
-<br>Eugene and Sim are both veterans in logistics - having cut their teeth at head of retail and engineering at Ninja Van. We're excited to see them apply the tricks and best practice they learned at a leading logistics company to drastically improve the online grocery delivery model.
+<br>Eugene and Sim are both veterans in logistics - having cut their teeth as Head of Retail and engineering at Ninja Van. We're excited to see them apply the tricks and best practices they learned at a leading logistics company to drastically improve the online grocery delivery model.
 
 <!-- Zi.Care -->
 
@@ -333,7 +333,7 @@ Electronic medical records in Indonesia.
 
 ### Why We're Excited
 
-Zi.Care is Indonesian health-tech company which focus in digitizing Indonesia Healthcare space by providing Electronic Medical Record Level 7 technology to the healthcare stakeholders (Hospitals, Clinics, Doctors, Patients) and empowering integrations of ecosystem for better healthcare services to the Indonesian people. Over 80% of hospitals in Indonesia still operate health care manually today - leading to long lines, inefficiencies in workflows, and worse yet, medical mistakes that can cause very bad outcomes. Zi.Care is already integrated into 80+ hospital systems today and we're excited to help them get to the rest of Indonesia. 
+Zi.Care is Indonesian health-tech company focused on digitizing that provides Electronic Medical Record Level 7 technology to the healthcare stakeholders (Hospitals, Clinics, Doctors, Patients) and empowering integrations of ecosystems for better healthcare services to the Indonesian people. Over 80% of hospitals in Indonesia still operate healthcare manually today - leading to long lines, inefficiencies in workflows, and worse yet, medical mistakes that can cause very bad outcomes. Zi.Care is already integrated into 80+ hospital systems today and we're excited to help them get to the rest of Indonesia. 
 
 ### Founders
 
